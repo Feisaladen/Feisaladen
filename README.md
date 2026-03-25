@@ -1,23 +1,41 @@
-# Hi there, I'm Feisal Yakub 👋
-## 🚀 Full-Stack Developer | AI & Automation
-**I bring your ideas into software.**
+<div align="center">
+
+# Hey, I'm Feisal Yakub 👋
+
+### Full-Stack Developer · AI Integration · Workflow Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feisaladen)
+
+*Building intelligent, production-ready software from Nairobi, Kenya 🇰🇪*
+
+</div>
+
 ---
+
 ## 💡 About Me
-I'm a passionate full-stack developer who specializes in transforming innovative ideas into powerful, production‑ready software. I combine modern development practices with AI‑powered solutions to build applications that are not only functional, but intelligent, scalable, and future‑ready.
-As a continuous learner and aspiring machine learning engineer, I focus on the intersection of software engineering and artificial intelligence—designing systems that solve real problems and scale with growth.
-🎓 **Power Learn Project Alumni** – Certificate of Achievement, July 2025 Cohort (16-week Software Development program specializing in AI for Software Engineering)   
+
+I'm a full-stack developer focused on the intersection of **software engineering and AI** — building systems that don't just work, but think. I move fast, ship real things, and use the right tools to solve real problems.
+
+- 🔨 Currently building a full-stack platform — architecting the backend, designing the data layer, and wiring up the frontend end-to-end
+- 🤖 Actively learning **AI agent workflows and automation** — shipping small production-grade pipelines and documenting the journey publicly
+- 🎯 Pragmatic engineer: I use existing tools, APIs, and models to build real solutions — not academic experiments
+- 📍 Based in Kenya | Open to remote opportunities
+
 ---
-## 👨‍💻 Currently
-* 🔨 Building a full‑stack application from the ground up — architecting the backend, designing the data layer, and wiring up the frontend end‑to‑end
-* 🔁 Experimenting with **n8n** for workflow automation — exploring how low‑code automation can complement custom software solutions
+
+## 🚀 What I Do
+
+| Area | What I Build |
+|------|-------------|
+| 💻 Full-Stack | End-to-end applications — backend, data layer, frontend |
+| 🤖 AI Integration | LLM-powered features, AI agents, intelligent automation |
+| 🔁 Workflow Automation | n8n pipelines *(actively learning)*, process orchestration |
+| ⚡ Backend APIs | Scalable Node.js/Express REST APIs with MongoDB |
+
 ---
-## 🛠️ What I Do
-* 💻 **Full‑Stack Development** – End‑to‑end application development
-* 🤖 **AI Integration** – Applying machine learning where it creates real value
-* 🔁 **Workflow Automation** – Streamlining processes with tools like n8n
-* ⚡ **Performance Optimization** – Fast, efficient, and reliable systems
-* 🔄 **Modernization** – Upgrading legacy systems into modern stacks
----
+
 ## 🧰 Tech Stack
 
 ### Languages
@@ -32,38 +50,58 @@ As a continuous learner and aspiring machine learning engineer, I focus on the i
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Databases & Backend Services
+### Databases & Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### AI & Automation
+### AI & Automation *(Learning)*
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Tools & Practices
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Feisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feisaladen&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feisaladen&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🏆 Highlights
-### 🌍 Hackathon – Land Degradation Solution
-Built and presented a tech solution addressing **land degradation**, scoring **37/50** in a competitive hackathon environment. The project demonstrated applied problem-solving at the intersection of technology and environmental sustainability.
-### 🎓 Power Learn Project – July 2025 Cohort
-Completed a rigorous 16-week program in Software Development with a specialization in **AI for Software Engineering**, earning a Certificate of Achievement. The program shifted my thinking from writing code to designing systems.
+
+**🌍 Hackathon — Land Degradation Solution**
+Built a multimodal AI solution using LLM image analysis to detect and assess land degradation. Scored **37/50** in a competitive environment — top 4 finish.
+
+**🤖 AI Automation Engineering** *(ongoing)*
+Publicly building and committing AI automation workflows — starting with an AI email assistant and agentic chat with memory. Treating it as a long-term engineering practice, not a one-off project.
+
+**🎓 Power Learn Project — July 2025 Cohort**
+Completed a 16-week intensive in Software Development, specializing in **AI for Software Engineering**. Shifted my thinking from writing code to designing systems.
+
 ---
-## 🌟 My Approach
-Every great product starts with understanding the problem.
-As a freelancer and developer, I work closely with clients and teams to:
-* Clearly understand the vision and business goals
-* Design solutions that scale with long‑term growth
-* Use modern technologies and AI only where they add real value
-* Deliver clean, well‑documented, and maintainable code
----
+
 ## 📫 Let's Connect
-Have an idea you want to bring to life? I'm always open to discussing new projects, collaborations, and opportunities.
-📧 **Email:** [feisaladen32@gmail.com]
+
+I'm open to **full-stack roles, AI integration projects, and remote collaborations.**
+
+[![Email](https://img.shields.io/badge/feisaladen32@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
 ---
-> *"Transforming ideas into intelligent software solutions, one commit at a time."*
+
+<div align="center">
+
+*"Ship real things. Automate the rest."*
+
+</div>
