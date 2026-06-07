@@ -1,26 +1,25 @@
+
 <div align="center">
 
 ```
-███████╗███████╗██╗███████╗ █████╗ ██╗
-██╔════╝██╔════╝██║██╔════╝██╔══██╗██║
-█████╗  █████╗  ██║███████╗███████║██║
-██╔══╝  ██╔══╝  ██║╚════██║██╔══██║██║
-██║     ███████╗██║███████║██║  ██║███████╗
-╚═╝     ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+ ███████╗███████╗██╗███████╗ █████╗ ██╗
+ ██╔════╝██╔════╝██║██╔════╝██╔══██╗██║
+ █████╗  █████╗  ██║███████╗███████║██║
+ ██╔══╝  ██╔══╝  ██║╚════██║██╔══██║██║
+ ██║     ███████╗██║███████║██║  ██║███████╗
+ ╚═╝     ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
 # Feisal Yakub
 
 **Full-Stack Developer · AI Integration · Workflow Automation**
 
-*Building intelligent, production-ready software from Nairobi, Kenya 🇰🇪*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Building+intelligent%2C+production-ready+software;From+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feisaladen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Feisaladen&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Feisaladen&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,24 +27,25 @@
 
 ## `$ whoami`
 
-> I'm a full-stack developer working at the intersection of **software engineering and AI** — building systems that don't just run, but *think*. I move fast, ship real things, and reach for the right tool to solve real problems.
-
 ```yaml
 name:       Feisal Yakub
 location:   Nairobi, Kenya 🇰🇪
-focus:      Full-Stack Development · AI Integration · Automation
-status:     Open to remote roles & collaborations
+role:       Full-Stack Developer & AI Integration Engineer
+focus:      [ Backend APIs, AI Agents, Workflow Automation ]
+currently:  Architecting a full-stack platform end-to-end
+learning:   [ Docker, Linux/WSL, n8n, AI Orchestration ]
+open_to:    Remote roles & collaborations
 philosophy: "Ship real things. Automate the rest."
 ```
 
-- 🔨 Currently architecting a full-stack platform — backend, data layer, and frontend end-to-end
-- 🤖 Building production-grade AI agent workflows with n8n — shipping and documenting publicly
-- 🎯 Pragmatic engineer: real solutions over academic experiments
-- 🌍 Open to remote opportunities worldwide
+- **▸** Building a full-stack platform — backend, data layer, frontend wired up end-to-end
+- **▸** Shipping production-grade AI agent workflows with n8n — committing publicly as a long-term practice
+- **▸** Pragmatic engineer: I reach for the right tool to solve real problems — not academic experiments
+- **▸** Open to remote opportunities worldwide
 
 ---
 
-## `$ ls ./skills`
+## `$ ls ./tech_stack`
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -53,12 +53,9 @@ philosophy: "Ship real things. Automate the rest."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Runtime
+### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -68,67 +65,94 @@ philosophy: "Ship real things. Automate the rest."
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### Tools
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## `$ cat ./projects`
 
-### 🤖 AI-JOB-WORKFLOW — Automated Job Application Agent
-> *n8n · Gmail API · Google Sheets · Telegram · LLM*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An autonomous job application pipeline built with n8n. Scrapes internship listings, generates tailored cover letters via LLM, sends applications via Gmail, logs everything to Google Sheets, and fires Telegram notifications. End-to-end automation with zero manual intervention.
+### 🤖 AI-JOB-WORKFLOW
+> *Autonomous Job Application Agent*
 
-`automation` `n8n` `llm` `gmail-api` `google-sheets`
+n8n pipeline that searches internships, writes tailored cover letters via LLM, sends via Gmail, logs to Google Sheets, and fires Telegram notifications — zero manual intervention.
+
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM-8E75B2?style=flat-square)
+![Gmail API](https://img.shields.io/badge/-Gmail_API-EA4335?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Agri-Smart `[LIVE]`
+> *Farmer–Buyer Marketplace*
+
+Production-deployed marketplace connecting smallholder farmers directly to buyers. Real-time inventory, secure transactions, no middlemen.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Afya-Link
+> *AI Health Assistant*
+
+Gemini-powered assistant providing contextual medical guidance and symptom triage — built for accessibility in underserved communities.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Terra AI
+> *Soil Analysis Platform*
+
+Multimodal AI for land degradation detection. Upload soil/land images → receive AI assessments and severity scores.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![Gemini Vision](https://img.shields.io/badge/-Gemini_Vision-8E75B2?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌿 Agri-Smart — Farmer–Buyer Marketplace *(Live in Production)*
-> *Node.js · Express · MongoDB · REST API*
-
-A production-deployed marketplace connecting smallholder farmers directly to buyers, eliminating middlemen. Features product listings, real-time inventory management, and secure transactions.
-
-`production` `full-stack` `marketplace` `nodejs` `mongodb`
-
----
-
-### 🏥 Afya-Link — AI Health Assistant
-> *Python · Gemini API · LangChain*
-
-An intelligent health assistant powered by Google Gemini. Provides contextual medical guidance, symptom triage, and health information — designed with accessibility for underserved communities in mind.
-
-`ai` `health-tech` `gemini` `langchain` `python`
-
----
-
-### 🌍 Terra AI — Soil Analysis Platform
-> *Python · Gemini Vision API · Multimodal AI*
-
-A Gemini-powered soil degradation analysis tool. Upload images of land or soil samples and receive AI-generated assessments, actionable recommendations, and degradation severity scores.
-
-`ai` `computer-vision` `gemini` `agriculture` `python`
-
----
-
-## `$ cat ./achievements`
+## `$ git log --achievements`
 
 ```
-[2025] 🥇 Hackathon — Land Degradation · PowerLearn Project
-         Multimodal AI solution for land degradation detection
-         Score: 37/50 — Top 4 finish in competitive field
+commit a3f9d1e  [2025 · ONGOING]
+Author: Feisal Yakub
+Msg:    AI Automation Engineering — Building in Public
+        Shipping production AI workflows, committing publicly.
+        Long-term engineering practice, not a one-off project.
 
-[2025] 📜 Power Learn Project — Software Development Cohort
-         16-week intensive · Specialization: AI for Software Engineering
-         Outcome: Shifted from writing code → designing systems
+commit 7bc2e4a  [2025 · HACKATHON]
+Author: Feisal Yakub
+Msg:    PowerLearn Project — Land Degradation Solution
+        Multimodal AI for land degradation detection.
+        Score: 37/50 — Top 4 finish in competitive field.
 
-[ongoing] 🔁 AI Automation Engineering — Building in Public
-          Shipping production AI workflows, committing publicly
-          Long-term engineering practice, not a one-off project
+commit 5d8c3f2  [2025 · COHORT]
+Author: Feisal Yakub
+Msg:    Power Learn Project — AI for Software Engineering
+        16-week intensive. Shifted from writing code
+        to designing systems.
 ```
 
 ---
@@ -137,11 +161,10 @@ A Gemini-powered soil degradation analysis tool. Upload images of land or soil s
 
 <div align="center">
 
-![Feisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feisaladen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Feisaladen&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=3fb950&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feisaladen&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feisaladen&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Feisaladen&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Feisaladen&theme=github-dark-blue&hide_border=true&fire=3fb950&ring=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -149,21 +172,20 @@ A Gemini-powered soil degradation analysis tool. Upload images of land or soil s
 
 ## `$ cat ./contact`
 
-I'm open to **full-stack roles**, **AI integration projects**, and **remote collaborations**.
+> Open to **full-stack roles**, **AI integration projects**, and **remote collaborations**.
 
-| Channel | Link |
-|---------|------|
-| 📧 Email | [your@email.com](mailto:feisaladen32@email.com) |
+<div align="center">
 
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
 
-
+</div>
 
 ---
 
 <div align="center">
 
-*"Ship real things. Automate the rest."*
-
-**— Feisal Yakub**
+```bash
+$ echo "Ship real things. Automate the rest." — Feisal Yakub
+```
 
 </div>
