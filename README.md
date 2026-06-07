@@ -1,107 +1,169 @@
 <div align="center">
 
-# Hey, I'm Feisal Yakub 👋
- 
-### Full-Stack Developer · AI Integration · Workflow Automation 
+```
+███████╗███████╗██╗███████╗ █████╗ ██╗
+██╔════╝██╔════╝██║██╔════╝██╔══██╗██║
+█████╗  █████╗  ██║███████╗███████║██║
+██╔══╝  ██╔══╝  ██║╚════██║██╔══██║██║
+██║     ███████╗██║███████║██║  ██║███████╗
+╚═╝     ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feisaladen)
+# Feisal Yakub
+
+**Full-Stack Developer · AI Integration · Workflow Automation**
 
 *Building intelligent, production-ready software from Nairobi, Kenya 🇰🇪*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Feisaladen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Feisaladen&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
 
-## 💡 About Me
+## `$ whoami`
 
-I'm a full-stack developer focused on the intersection of **software engineering and AI** — building systems that don't just work, but think. I move fast, ship real things, and use the right tools to solve real problems.
+> I'm a full-stack developer working at the intersection of **software engineering and AI** — building systems that don't just run, but *think*. I move fast, ship real things, and reach for the right tool to solve real problems.
 
-- 🔨 Currently building a full-stack platform — architecting the backend, designing the data layer, and wiring up the frontend end-to-end
-- 🤖 Actively learning **AI agent workflows and automation** — shipping small production-grade pipelines and documenting the journey publicly
-- 🎯 Pragmatic engineer: I use existing tools, APIs, and models to build real solutions — not academic experiments
-- 📍 Based in Kenya | Open to remote opportunities
+```yaml
+name:       Feisal Yakub
+location:   Nairobi, Kenya 🇰🇪
+focus:      Full-Stack Development · AI Integration · Automation
+status:     Open to remote roles & collaborations
+philosophy: "Ship real things. Automate the rest."
+```
 
----
-
-## 🚀 What I Do
-
-| Area | What I Build |
-|------|-------------|
-| 💻 Full-Stack | End-to-end applications — backend, data layer, frontend |
-| 🤖 AI Integration | LLM-powered features, AI agents, intelligent automation |
-| 🔁 Workflow Automation | n8n pipelines *(actively learning)*, process orchestration |
-| ⚡ Backend APIs | Scalable Node.js/Express REST APIs with MongoDB |
+- 🔨 Currently architecting a full-stack platform — backend, data layer, and frontend end-to-end
+- 🤖 Building production-grade AI agent workflows with n8n — shipping and documenting publicly
+- 🎯 Pragmatic engineer: real solutions over academic experiments
+- 🌍 Open to remote opportunities worldwide
 
 ---
 
-## 🧰 Tech Stack
+## `$ ls ./skills`
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Databases & Services
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### AI & Automation *(Learning)*
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## `$ cat ./projects`
+
+### 🤖 AI-JOB-WORKFLOW — Automated Job Application Agent
+> *n8n · Gmail API · Google Sheets · Telegram · LLM*
+
+An autonomous job application pipeline built with n8n. Scrapes internship listings, generates tailored cover letters via LLM, sends applications via Gmail, logs everything to Google Sheets, and fires Telegram notifications. End-to-end automation with zero manual intervention.
+
+`automation` `n8n` `llm` `gmail-api` `google-sheets`
+
+---
+
+### 🌿 Agri-Smart — Farmer–Buyer Marketplace *(Live in Production)*
+> *Node.js · Express · MongoDB · REST API*
+
+A production-deployed marketplace connecting smallholder farmers directly to buyers, eliminating middlemen. Features product listings, real-time inventory management, and secure transactions.
+
+`production` `full-stack` `marketplace` `nodejs` `mongodb`
+
+---
+
+### 🏥 Afya-Link — AI Health Assistant
+> *Python · Gemini API · LangChain*
+
+An intelligent health assistant powered by Google Gemini. Provides contextual medical guidance, symptom triage, and health information — designed with accessibility for underserved communities in mind.
+
+`ai` `health-tech` `gemini` `langchain` `python`
+
+---
+
+### 🌍 Terra AI — Soil Analysis Platform
+> *Python · Gemini Vision API · Multimodal AI*
+
+A Gemini-powered soil degradation analysis tool. Upload images of land or soil samples and receive AI-generated assessments, actionable recommendations, and degradation severity scores.
+
+`ai` `computer-vision` `gemini` `agriculture` `python`
+
+---
+
+## `$ cat ./achievements`
+
+```
+[2025] 🥇 Hackathon — Land Degradation · PowerLearn Project
+         Multimodal AI solution for land degradation detection
+         Score: 37/50 — Top 4 finish in competitive field
+
+[2025] 📜 Power Learn Project — Software Development Cohort
+         16-week intensive · Specialization: AI for Software Engineering
+         Outcome: Shifted from writing code → designing systems
+
+[ongoing] 🔁 AI Automation Engineering — Building in Public
+          Shipping production AI workflows, committing publicly
+          Long-term engineering practice, not a one-off project
+```
+
+---
+
+## `$ ./stats.sh`
 
 <div align="center">
 
-![Feisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feisaladen&show_icons=true&theme=tokyonight&hide_border=true)
+![Feisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feisaladen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feisaladen&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Feisaladen&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## `$ cat ./contact`
 
-**🌍 Hackathon — Land Degradation Solution**
-Built a multimodal AI solution using LLM image analysis to detect and assess land degradation. Scored **37/50** in a competitive environment — top 4 finish.
+I'm open to **full-stack roles**, **AI integration projects**, and **remote collaborations**.
 
-**🤖 AI Automation Engineering** *(ongoing)*
-Publicly building and committing AI automation workflows — starting with an AI email assistant and agentic chat with memory. Treating it as a long-term engineering practice, not a one-off project.
-
-**🎓 Power Learn Project — July 2025 Cohort**
-Completed a 16-week intensive in Software Development, specializing in **AI for Software Engineering**. Shifted my thinking from writing code to designing systems.
-
----
-
-## 📫 Let's Connect
-
-I'm open to **full-stack roles, AI integration projects, and remote collaborations.**
-
-[![Email](https://img.shields.io/badge/feisaladen32@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+| Channel | Link |
+|---------|------|
+| 📧 Email | [your@email.com](mailto:your@email.com) |
+| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com) |
+| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
+| 🐦 Twitter/X | [@yourhandle](https://twitter.com) |
 
 ---
 
 <div align="center">
 
 *"Ship real things. Automate the rest."*
+
+**— Feisal Yakub**
 
 </div>
