@@ -153,10 +153,10 @@ I'm open to **full-stack roles**, **AI integration projects**, and **remote coll
 
 | Channel | Link |
 |---------|------|
-| 📧 Email | [your@email.com](mailto:your@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](https://linkedin.com) |
-| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
-| 🐦 Twitter/X | [@yourhandle](https://twitter.com) |
+| 📧 Email | [your@email.com](mailto:feisaladen32@email.com) |
+
+
+
 
 ---
 
