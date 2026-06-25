@@ -10,7 +10,7 @@
  ╚═╝     ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-# Feisal Yakub
+# Feisal Y adow
 
 **Full-Stack Developer · AI Integration · Workflow Automation**
 
