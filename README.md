@@ -12,7 +12,7 @@
 
 # Feisal Y Adow
 
-**Full-Stack Developer · AI Integration · Workflow Automation**
+**Full-Stack Developer · AI Integration · Workflow Automation***
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Building+intelligent%2C+production-ready+software;From+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
