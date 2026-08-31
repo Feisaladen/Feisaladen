@@ -6,7 +6,7 @@
 **Full-Stack Developer building AI-powered products**
 Kenya 🇰🇪
 
-> *"AI agents aren't a trend to me —they're the reason I get out of bed excited to build."*
+> *"AI agents aren't a trend to me — they're the reason I get out of bed excited to build."*
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Feisaladen)
@@ -17,11 +17,9 @@ Kenya 🇰🇪
 
 ## About
 
-I build backend systems and AI agent workflows, and connect them to real users. My focus is shipping software that works in production, not demos — one live marketplace, one automation pipeline running in the wild, and a couple of AI tools built to solve problems for people who don't usually get built for.
+I build backend systems and AI agent workflows, and connect them to real users. My focus is shipping software that works in production, not demos — one live marketplace, one automation pipeline running in the wild, and a couple of AI tools aimed at problems that usually get overlooked.
 
-Currently deepening my skills in Docker, Linux, and AI orchestration (n8n), while working toward a full-stack platform I'm building end-to-end.
-
-Open to remote full-stack or AI integration roles.
+Currently deepening my skills in Docker, Linux, and AI orchestration (n8n), while building out a full-stack platform of my own, end-to-end.
 
 ---
 
