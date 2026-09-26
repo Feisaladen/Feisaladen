@@ -3,10 +3,8 @@
 
 # Feisal Yakub
 
-**Full-Stack Developer building AI-powered products**
+**Software Developer & Tech Educator | Deep-diving into Backend & Data/Operational Analytics**
 Kenya 🇰🇪
-
-> *"AI agents aren't a trend to me — they're the reason I get out of bed excited to build."*
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Feisaladen)
@@ -17,7 +15,11 @@ Kenya 🇰🇪
 
 ## About
 
-I build backend systems and AI agent workflows, and connect them to real users. My focus is shipping software that works in production, not demos — one live marketplace, one automation pipeline running in the wild, and a couple of AI tools aimed at problems that usually get overlooked.
+I'm a software developer and tech educator who builds backend systems and AI agent workflows, and connects them to real users. My focus is shipping software that works in production, not demos — one live marketplace, one automation pipeline running in the wild, and a couple of AI tools aimed at problems that usually get overlooked.
+
+I've taught and supported other people learning tech, so I know what it actually takes to go from confused to capable — and I hold myself to that same standard. I'm also very much still a student of the craft myself. Right now I'm going deep on **backend engineering** and **data/operational analytics** — understanding systems at the level of data flow, performance, and reliability, not just making features work. Automation is where I have the most fun: if a process is repetitive, I probably want to build a pipeline for it.
+
+I'm actively seeking backend-focused experience and opportunities to contribute to real systems — open source, teams, or projects where I can learn from people further along than me while pulling my weight.
 
 Currently deepening my skills in Docker, Linux, and AI orchestration (n8n), while building out a full-stack platform of my own, end-to-end.
 
@@ -48,6 +50,7 @@ A multimodal tool that takes soil/land images and returns AI-generated land degr
 **Languages:** JavaScript, Python, HTML, CSS
 **Backend:** Node.js, Express, MongoDB, PostgreSQL, Supabase
 **AI/Automation:** n8n, Gemini, OpenAI, LangChain, TensorFlow
+**Data & Analytics:** SQL, PostgreSQL, Google Sheets/Apps Script, exploratory data workflows
 **Tools:** Git, Docker, Linux, VS Code
 
 ---
@@ -56,12 +59,13 @@ A multimodal tool that takes soil/land images and returns AI-generated land degr
 
 - **2025** — AI Software Engineering cohort, Power Learn Project (16 weeks) — shifted focus from writing code to designing systems
 - **2025** — Land degradation detection hackathon, Power Learn Project — top 4 finish
+- **Ongoing** — Teaching and mentoring others in tech while deepening my own backend and data skills
 - **Ongoing** — Building and shipping AI automation workflows in public
 
 ---
 
 ## Get in touch
 
-Open to full-stack roles, AI integration work, and remote collaboration.
+Open to backend roles, AI integration work, data/analytics opportunities, and open-source collaboration — always glad to learn from a real codebase or a real team.
 
 📧 [feisaladen32@gmail.com](mailto:feisaladen32@gmail.com)
