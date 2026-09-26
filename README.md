@@ -1,10 +1,11 @@
 
 <div align="center">
 
-# Feisal Yakub
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=180&section=header&text=Feisal%20Yakub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20Tech%20Educator&descAlignY=58&descSize=18" width="100%"/>
 
-**Software Developer & Tech Educator | Deep-diving into Backend & Data/Operational Analytics**
-Kenya 🇰🇪
+<a href="https://github.com/Feisaladen">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Deep-diving+into+Backend+%26+Data%2FOperational+Analytics;Automating+the+boring+stuff%2C+one+pipeline+at+a+time;Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
+</a>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:feisaladen32@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Feisaladen)
@@ -17,7 +18,7 @@ Kenya 🇰🇪
 
 I'm a software developer and tech educator who builds backend systems and AI agent workflows, and connects them to real users. My focus is shipping software that works in production, not demos — one live marketplace, one automation pipeline running in the wild, and a couple of AI tools aimed at problems that usually get overlooked.
 
-I've taught and supported other people learning tech, so I know what it actually takes to go from confused to capable — and I hold myself to that same standard. I'm also very much still a student of the craft myself. Right now I'm going deep on **backend engineering** and **data/operational analytics** — understanding systems at the level of data flow, performance, and reliability, not just making features work. Automation is where I have the most fun: if a process is repetitive, I probably want to build a pipeline for it.
+I've taught and supported other people learning tech, so I know what it actually takes to go from confused to capable. These days I'm turning that same standard on myself — going deep on **backend engineering** and **data/operational analytics** — understanding systems at the level of data flow, performance, and reliability, not just making features work. Automation is where I have the most fun: if a process is repetitive, I probably want to build a pipeline for it.
 
 I'm actively seeking backend-focused experience and opportunities to contribute to real systems — open source, teams, or projects where I can learn from people further along than me while pulling my weight.
 
@@ -69,3 +70,5 @@ A multimodal tool that takes soil/land images and returns AI-generated land degr
 Open to backend roles, AI integration work, data/analytics opportunities, and open-source collaboration — always glad to learn from a real codebase or a real team.
 
 📧 [feisaladen32@gmail.com](mailto:feisaladen32@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e293b&height=100&section=footer"/>
